@@ -1,0 +1,1 @@
+This is a simple job application form in Python's Flask framework. As this was created during the learning process, I used in it my personal email.
